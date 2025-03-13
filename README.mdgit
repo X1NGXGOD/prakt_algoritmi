@@ -1,0 +1,1 @@
+"# prakt_algoritmi"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/X1NGXGOD/prakt_algoritmi.gitgit push -u origin main
